@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hii there, welcome to blues's blog, have a happy landing. My name is blues, an WEB developer from ShangHai, Actually coding already is a important part of my life, nowdays,  I'm really happy to chat with u about interesting technical topic, looking forward to your email.
+
 <!--
 **z825316969/z825316969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
